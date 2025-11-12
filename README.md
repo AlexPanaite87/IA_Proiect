@@ -1,1 +1,2 @@
-# IA_Proiect
+# IA_Proiect - Forward Checking Algorithm
+
